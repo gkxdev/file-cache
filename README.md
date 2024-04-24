@@ -1,6 +1,6 @@
 # File-Cache
 
-PHP ile geliştirdiğim, kullanımı oldukça basit bir dosya önbellekleme kütüphanesidir. Süreli önbellekleme saniye cinsinden tutulmaktadır.
+PHP dosya önbellekleme sınıfı.
 
 ## Kullanımı
 
